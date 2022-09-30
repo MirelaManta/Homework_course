@@ -10,7 +10,7 @@ cand facem mai multe mentiuni
 ''' ''' bagat in print il poate interpreta ca pe un string pe mai multe linii
 '''
 
-
+# This is a exercise to determine all posible combinations of two numbers, from a given list
 
 def combos_oftwo(my_list):
     combos = list(combinations(my_list, 2))

@@ -1,4 +1,4 @@
-n = int(input('dami cucul '))
+n = int(input('Introdu un nr... '))
 for i in range(1, n+1):
     for j in range(i):
         print(i, end=' ')

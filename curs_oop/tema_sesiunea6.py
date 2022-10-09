@@ -1,7 +1,5 @@
 from math import pi
 from datetime import date
-import self as self
-
 
 class Cerc:
     #constructor

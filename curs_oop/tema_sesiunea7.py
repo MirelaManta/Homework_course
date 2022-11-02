@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 
+
 class FormaGeometrica(ABC):
     def __init__(self):
         self.pi = 3.14

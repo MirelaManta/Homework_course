@@ -20,11 +20,11 @@ print(par_impar(12))
 
 
 # 3.
-def name_length(nume, prenume):
-    return len(nume+prenume)
+def name_length(nume, prenume, nume_mijlociu):
+    return len(nume + prenume + nume_mijlociu)
 
-print(name_length('Manta', 'Mirela'))
-print(name_length('Oprea', 'Tiberiu'))
+print(name_length('Manta', 'Mirela', 'Raluca'))
+print(name_length('Oprea', 'Tiberiu', 'Alexandru'))
 
 
 # 4.
@@ -274,10 +274,10 @@ print(china_time())
 from datetime import date
 
 
-def days_till_birthday(eveniment, birthday):
+def days_till_birthday(event, birthday):
     today = date.today()
     till_bday = (birthday - today).days
-    return f'Pana la {eveniment} mai sunt {till_bday} zile.'
+    return f'Pana la {event} mai sunt {till_bday} zile.'
 
 print(days_till_birthday('ziua mea', date(2022, 10, 18)))
 print(days_till_birthday('Crăciun', date(2022, 12, 25)))

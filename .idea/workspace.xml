@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d4434d4-177a-4fc8-9404-048a3f1cda87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/teste_unitare/forma_geom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/implem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/implem1_clasa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/implem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/implem2_clasa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/implem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/tdd_formageom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test1_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test2_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test3_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test_implem1_clasa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste_unitare/test_implem2_clasa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curs_oop/tema_sesiunea7.py" beforeDir="false" afterPath="$PROJECT_DIR$/curs_oop/tema_sesiunea7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema_sesiunea4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema_sesiunea4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema_sesiunea5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema_sesiunea5.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GjAyt2Dvzxp6I9LgyraUDOzo3U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;M:/Teme/PycharmProjects/TemeCursPy&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.tema_sesiunea4">
+    <configuration name="tema_sesiunea4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TemeCursPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema_sesiunea4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tema_sesiunea5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TemeCursPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema_sesiunea5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tdd_formageom.TesteCerc" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="TemeCursPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste_unitare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tdd_formageom.TesteCerc&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tdd_formageom.TestePatrat" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="TemeCursPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste_unitare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tdd_formageom.TestePatrat&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in tdd_formageom.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="TemeCursPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/teste_unitare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/teste_unitare/tdd_formageom.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tema_sesiunea4" />
+        <item itemvalue="Python.tema_sesiunea5" />
+        <item itemvalue="Python tests.Python tests in tdd_formageom.py" />
+        <item itemvalue="Python tests.Python tests for tdd_formageom.TesteCerc" />
+        <item itemvalue="Python tests.Python tests for tdd_formageom.TestePatrat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d4434d4-177a-4fc8-9404-048a3f1cda87" name="Changes" comment="" />
+      <created>1666891877215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666891877215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

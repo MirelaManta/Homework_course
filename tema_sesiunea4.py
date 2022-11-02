@@ -83,14 +83,13 @@ for i in range(len(numere)):
     if numere[i] > nr_max:
         nr_max = numere[i]
         print(f'Nr maxim curent este: {numere[i]}')
-    else:
-        print('Am gasit deja nr maxim!')
+
 print(f'Cel mai mare nr din lista este: {nr_max}')
 
 # 10.
 numere = [5, 7, 3, 9, 3, 3, 1, 0, -4, 3]
 for i in range(len(numere)):
-    if numere[i] > 0 or numere[i] < 0:
+    if numere[i] > 0:
         numere[i] = - numere[i]
 print(numere)
 
